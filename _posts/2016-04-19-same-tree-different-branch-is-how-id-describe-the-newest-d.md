@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Same tree, different branch is how I'd describe the newest direction music has taken me: spoken word poems or prose with music by myself or guest artists. The first venture, a poem called What You Alone Know, features the amazing Gus Moberg on electric guitar. The recording can be found at https://soundcloud.com/sametree"
-datePublished: '2016-04-19T00:35:25.164Z'
-dateModified: '2016-04-19T00:35:20.142Z'
+datePublished: '2016-04-19T00:40:07.071Z'
+dateModified: '2016-04-19T00:35:33.118Z'
 title: ''
 author: []
 authors: []
